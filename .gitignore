@@ -1,0 +1,14 @@
+# Scala
+target
+*.class
+*.log
+
+# SBT
+.bsp
+
+# IntelliJ
+.idea
+*.iml
+
+# MacOS
+.DS_Store
